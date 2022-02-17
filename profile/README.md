@@ -2,9 +2,9 @@
 We are happy to have you here. This is where we from the Synthesis team share news, manuals, code and teaching material with you. In oder to help you navigate around our page, here is a little overview about the content we are providing for you. 
 
 # News
-:boom: In 2022, we will organise two exciting workshops : 
-    :eight_pointed_black_star: **Functional and phylogenetic measures with [Carlos Carmona](https://teguam.es/miembros/carlos-pcarmona/)**
-    :cyclone: **Meta-Analysis with Prof. [Julia Koricheva](https://pure.royalholloway.ac.uk/portal/en/persons/julia-koricheva(ab83b389-7258-48fd-8560-0c8de7b6c94a).html)**
+:boom: In 2022, we will organise two exciting workshops :boom:
+    - :eight_pointed_black_star: **Functional and phylogenetic measures with [Carlos Carmona](https://teguam.es/miembros/carlos-pcarmona/)**
+    - :cyclone: **Meta-Analysis with Prof. [Julia Koricheva](https://pure.royalholloway.ac.uk/portal/en/persons/julia-koricheva(ab83b389-7258-48fd-8560-0c8de7b6c94a).html)**
 
 
 # Overview of content
