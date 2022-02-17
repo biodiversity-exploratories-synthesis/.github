@@ -1,7 +1,8 @@
-# Welcome to the Biodiversity Exploratories Synthesis Page!
-We are happy to have you here. This is where we from the Synthesis team share news, manuals, code and teaching material with you. In oder to help you navigate around our page, here is a little overview about the content we are providing for you. Follow the links provided here, or just browse around through our Repositories and their Readme files. 
+# Welcome to the Biodiversity Exploratories Core Synthesis Page!
+This space is maintained by the [Core Project Biodiversity Synthesis](https://www.biodiversity-exploratories.de/en/projects/core-project-10-biodiversity-synthesis/) of the [Biodiversity Exploratories](https://www.biodiversity-exploratories.de/en/). Here we share news, manuals, code and teaching material. 
+In oder to help you navigate around our page, here is a little overview about the content we provide. Follow the links below or just browse our Repositories and their Readme files. 
 
-If you are new to GitHub : Welcome! Repositories are folders, each of them contains a file called "Readme" in which the content of the current folder is described.
+If you are new to GitHub : Welcome! Repositories are like folders, each of them contains a file called "Readme" in which the content of the current folder is described.
 
 # News
 In 2022, we will organise two :boom: exciting courses/workshops :boom: we are looking forward to:
@@ -11,11 +12,14 @@ In 2022, we will organise two :boom: exciting courses/workshops :boom: we are lo
 
 # Overview of content
 ### Manuals
-- The [**Synthesis dataset manual**](https://github.com/biodiversity-exploratories-synthesis/Synthesis_dataset_manual) helps you to work with the Synthesis datasets. It lists pitfalls and specialities you might consider when working with these datasets.
+- The [**Synthesis dataset manual**](https://github.com/biodiversity-exploratories-synthesis/Synthesis_dataset_manual/blob/main/Synthesis%20datasets%20%20How%20to%20use.md) helps you to work with the Synthesis datasets. It  provides information and tips on how to handle the datasets and outlines the common issues when analysing these datasets.
 
 ### Code
-- In [**Useful functions**](https://github.com/biodiversity-exploratories-synthesis/Synthesis_useful_functions) you find a collection of functions we often use ourselves and could prove useful for you, too.
-- All code to create synthesis datasets, you find in the respective folders for [grassland diversity](https://github.com/biodiversity-exploratories-synthesis/Synthesis_dataset_diversity_grassland), [grassland functions](https://github.com/biodiversity-exploratories-synthesis/Synthesis_dataset_functions_grassland), [forest diversity](https://github.com/biodiversity-exploratories-synthesis/Synthesis_dataset_diversity_forest)
+- All code to create synthesis datasets is in their respective folders: [grassland diversity](https://github.com/biodiversity-exploratories-synthesis/Synthesis_dataset_diversity_grassland), [grassland functions](https://github.com/biodiversity-exploratories-synthesis/Synthesis_dataset_functions_grassland), [forest diversity](https://github.com/biodiversity-exploratories-synthesis/Synthesis_dataset_diversity_forest)
+- In [**useful functions**](https://github.com/biodiversity-exploratories-synthesis/Synthesis_useful_functions) you can find a collection of functions that we often use ourselves and that could be useful when working with Biodiversity Exploratories datasets. 
 
 ### Teaching material
-You find that in the [**courses workshops**](https://github.com/biodiversity-exploratories-synthesis/Synthesis_courses_workshops) folder
+Teaching material is in the [**courses workshops**](https://github.com/biodiversity-exploratories-synthesis/Synthesis_courses_workshops) folder.
+
+# How to contribute
+We welcome any contribution! If you want to contribute code (e.g. useful functions), want to report an error or make a suggestion, please do not hesitate to contact us by email, make a pull request via Github or open a Github issue in the repository of interest.
