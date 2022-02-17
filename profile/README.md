@@ -1,5 +1,7 @@
 # Welcome to the Biodiversity Exploratories Synthesis Page!
-We are happy to have you here. This is where we from the Synthesis team share news, manuals, code and teaching material with you. In oder to help you navigate around our page, here is a little overview about the content we are providing for you. 
+We are happy to have you here. This is where we from the Synthesis team share news, manuals, code and teaching material with you. In oder to help you navigate around our page, here is a little overview about the content we are providing for you. Follow the links provided here, or just browse around through our Repositories and their Readme files. 
+
+If you are new to GitHub : Welcome! Repositories are folders, each of them contains a file called "Readme" in which the content of the current folder is described.
 
 # News
 In 2022, we will organise two :boom: exciting courses/workshops :boom: we are looking forward to:
