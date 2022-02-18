@@ -1,5 +1,5 @@
 # Welcome to the Biodiversity Exploratories Core Synthesis Page!
-![explos_logo](../.biodiversity-exploratories-synthesis.github.io/assets/meme_make_synthesis_proposal.jpg)
+![explos_logo](../../.biodiversity-exploratories-synthesis.github.io/assets/meme_make_synthesis_proposal.jpg)
 
 This space is maintained by the [Core Project Biodiversity Synthesis](https://www.biodiversity-exploratories.de/en/projects/core-project-10-biodiversity-synthesis/) of the [Biodiversity Exploratories](https://www.biodiversity-exploratories.de/en/). Here we share news, manuals, code and teaching material. 
 In oder to help you navigate around our page, here is a little overview about the content we provide. Follow the links below or just browse our Repositories and their Readme files. 
