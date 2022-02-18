@@ -21,5 +21,8 @@ In 2022, we will organise two :boom: exciting courses/workshops :boom: we are lo
 ### Teaching material
 Teaching material is in the [**courses workshops**](https://github.com/biodiversity-exploratories-synthesis/Synthesis_courses_workshops) folder.
 
+### Links
+- current [list of synthesis proposals](https://www.bexis.uni-jena.de/FMT/GeneralFiles/Show?viewTitle=General%20Documents&viewName=GeneralFiles&rootMenu=BeoInformation) (you need to be logged in to BExIS). Please remember, that a Proposal including **Data from 3 or more projects** is a synthesis project, and needs a respective proposal. Further information about synthesis proposal writing can be found in the current [Rules of Procedure](https://www.bexis.uni-jena.de/FMT/GeneralFiles/DownloadFile?path=FMT\\BeoInformation\\GeneralInformation\\BE-Geschäftsordnung (Rules of procedure)_2021-02-19.pdf&mimeType=.pdf) (requires you to be logged in to BExIS). 
+
 # How to contribute
 We welcome any contribution! If you want to contribute code (e.g. useful functions), want to report an error or make a suggestion, please do not hesitate to contact us by email, make a pull request via Github or open a Github issue in the repository of interest.
