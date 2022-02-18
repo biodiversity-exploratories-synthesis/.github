@@ -3,6 +3,8 @@
 
 If you are new to GitHub : Welcome! Repositories are like folders, each of them contains a file called "Readme" in which the content of the current folder is described.
 
+![explos_logo](../../biodiversity-exploratories-synthesis.github.io/assets/explos_logo.svg)
+
 # News
 In 2022, we will organise two :boom: exciting courses/workshops :boom: we are looking forward to:
 - In April/ May : **Functional and phylogenetic measures with [Carlos Carmona](https://teguam.es/miembros/carlos-pcarmona/)**
