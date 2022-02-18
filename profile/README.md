@@ -3,7 +3,7 @@
 
 If you are new to GitHub : Welcome! Repositories are like folders, each of them contains a file called "Readme" in which the content of the current folder is described.
 
-![explos_logo](../../../../biodiversity-exploratories-synthesis.github.io/assets/explos_logo.svg)
+![explos_logo](/../../../../github/docs/blob/main/biodiversity-exploratories-synthesis.github.io/assets/explos_logo.svg)
 
 # News
 In 2022, we will organise two :boom: exciting courses/workshops :boom: we are looking forward to:
