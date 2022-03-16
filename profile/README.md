@@ -5,7 +5,7 @@ If you are new to GitHub : Welcome! Repositories are like folders, each of them 
 
 # News
 In 2022, we will organise two :boom: exciting courses/workshops :boom: we are looking forward to:
-- In April/ May : **Functional and phylogenetic measures with [Carlos Carmona](https://teguam.es/miembros/carlos-pcarmona/)** and [Lars Götzenberger](https://larsgoetzenberger.wordpress.com/)
+- In April/ May : **Functional and phylogenetic measures with [Carlos Carmona](https://teguam.es/miembros/carlos-pcarmona/) and [Lars Götzenberger](https://larsgoetzenberger.wordpress.com/)**
 - Later in 2022 : **Meta-Analysis with Prof. [Julia Koricheva](https://pure.royalholloway.ac.uk/portal/en/persons/julia-koricheva(ab83b389-7258-48fd-8560-0c8de7b6c94a).html)**
 
 
