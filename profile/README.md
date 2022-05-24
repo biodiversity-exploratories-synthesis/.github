@@ -4,7 +4,7 @@ This space is maintained by the [Core Project Biodiversity Synthesis](https://ww
 If you are new to GitHub : Welcome! Repositories are like folders, each of them contains a file called "Readme" in which the content of the current folder is described.
 
 # News
-In 2022, we will organise two :boom: exciting courses/workshops :boom: we are looking forward to:
+Outlook to our :boom: exciting courses/workshops :boom: this year. We are currently looking forward to:
 - 12.09. - 16.09.2022 : **Meta-Analysis with Prof. [Julia Koricheva](https://pure.royalholloway.ac.uk/portal/en/persons/julia-koricheva(ab83b389-7258-48fd-8560-0c8de7b6c94a).html)**
 
 
