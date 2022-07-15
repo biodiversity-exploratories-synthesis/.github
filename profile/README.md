@@ -6,6 +6,7 @@ If you are new to GitHub : Welcome! Repositories are like folders, each of them 
 # News
 Outlook to our :boom: exciting courses/workshops :boom: this year. We are currently looking forward to:
 - 12.09. - 16.09.2022 : **Meta-Analysis with Prof. [Julia Koricheva](https://pure.royalholloway.ac.uk/portal/en/persons/julia-koricheva(ab83b389-7258-48fd-8560-0c8de7b6c94a).html)**
+- End of November/ beginning of December : Basic/ Intermediate Statistics for Ecologists
 
 
 # Overview of content
