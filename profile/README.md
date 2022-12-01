@@ -31,6 +31,8 @@ Teaching material is in the [**courses workshops**](https://github.com/biodivers
 - [Ecological Metadata Language](https://github.com/biodiversity-exploratories-synthesis/Synthesis_courses_workshops/blob/main/Tutorials/ecological_metadata_language.Rmd)
 - Keep an eye as well on [The R Buddy Club](https://github.com/allanecology/R-buddies-course): Where we and our Institute's colleagues from the Plant Ecology (Prof. Markus Fischer) and Community Ecology (Prof. Eric Allan) Groups write tutorials about R-related topics for our Institute's R club.
 
+Don't hesitate to request a tutorial from us, or contact us directly with your R and statistics questions!
+
 ### Links
 - current [list of synthesis proposals](https://www.bexis.uni-jena.de/FMT/GeneralFiles/Show?viewTitle=General%20Documents&viewName=GeneralFiles&rootMenu=BeoInformation) (you need to be logged in to BExIS). Please remember, that a Proposal including **Data from 3 or more projects** is a synthesis project, and needs a respective proposal. Further information about synthesis proposal writing can be found in the current [Rules of Procedure](https://www.bexis.uni-jena.de/FMT/GeneralFiles/DownloadFile?path=FMT\\BeoInformation\\GeneralInformation\\BE-Geschäftsordnung (Rules of procedure)_2021-02-19.pdf&mimeType=.pdf) (requires you to be logged in to BExIS). 
 
