@@ -4,7 +4,7 @@ This space is maintained by the [Core Project Biodiversity Synthesis](https://ww
 If you are new to GitHub : Welcome! Repositories are like folders, each of them contains a file called "Readme" in which the content of the current folder is described.
 
 # News
-Outlook to our :boom: exciting courses/workshops :boom: next year.
+Outlook to our exciting courses/workshops next year.
 
 We are currently looking forward to 
 - Introduction to Statistics with R course, which will take place in Autumn 2023, once our new Members had the chance to settle down.
@@ -25,7 +25,7 @@ We have in good memory :
 ### Teaching material
 Teaching material is in the [**courses workshops**](https://github.com/biodiversity-exploratories-synthesis/Synthesis_courses_workshops) folder.
 
-**New** here are the short tutorials about selected topics, similar to a FAQ section. Currently published and partly still in development are : 
+:boom: **New** :boom: here are the short tutorials about selected topics, similar to a FAQ section. Currently published and partly still in development:
 - [Pvalue correction for multiple testing](https://github.com/biodiversity-exploratories-synthesis/Synthesis_courses_workshops/blob/main/Tutorials/Pvalue_correction_multiple_testing.Rmd)
 - [GDM Generalised Dissimilarity Modelling](https://github.com/biodiversity-exploratories-synthesis/Synthesis_courses_workshops/blob/main/Tutorials/Generalised_Dissimilarity_Modelling_GDM.Rmd)
 - [Ecological Metadata Language](https://github.com/biodiversity-exploratories-synthesis/Synthesis_courses_workshops/blob/main/Tutorials/ecological_metadata_language.Rmd)
