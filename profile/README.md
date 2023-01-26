@@ -10,8 +10,9 @@ We are currently looking forward to
 - Introduction to Statistics with R course, which will take place in Autumn 2023, once our new Members had the chance to settle down.
 - Statistical help-desk for (synthesis) research : Where we invite you and all your questions to join us on a short block-course with talks about current statistical issues and one-to-one meetings where you can ask all your project-related questions.
 
-We have in good memory :
-- 12.09. - 16.09.2022 : **Meta-Analysis with Prof. [Julia Koricheva](https://pure.royalholloway.ac.uk/portal/en/persons/julia-koricheva(ab83b389-7258-48fd-8560-0c8de7b6c94a).html)**
+Our courses last year :
+- 02.05 - 04-05: **Trait and phylogenetic analyses of community data** with Carlos Carmona and Lars Götzenberger
+- 12.09. - 16.09.2022 : **Meta-Analysis with [Julia Koricheva](https://pure.royalholloway.ac.uk/portal/en/persons/julia-koricheva(ab83b389-7258-48fd-8560-0c8de7b6c94a).html)**
 
 
 # Overview of content
@@ -34,7 +35,7 @@ Teaching material is in the [**courses workshops**](https://github.com/biodivers
 Don't hesitate to request a tutorial from us, or contact us directly with your R and statistics questions!
 
 ### Links
-- current [list of synthesis proposals](https://www.bexis.uni-jena.de/FMT/GeneralFiles/Show?viewTitle=General%20Documents&viewName=GeneralFiles&rootMenu=BeoInformation) (you need to be logged in to BExIS). Please remember, that a Proposal including **Data from 3 or more projects** is a synthesis project, and needs a respective proposal. Further information about synthesis proposal writing can be found in the current [Rules of Procedure](https://www.bexis.uni-jena.de/FMT/GeneralFiles/DownloadFile?path=FMT\\BeoInformation\\GeneralInformation\\BE-Geschäftsordnung (Rules of procedure)_2021-02-19.pdf&mimeType=.pdf) (requires you to be logged in to BExIS). 
+- current [list of synthesis proposals](https://www.bexis.uni-jena.de/FMT/GeneralFiles/Show?viewTitle=General%20Documents&viewName=GeneralFiles&rootMenu=BeoInformation) (you need to be logged in to BExIS). Please remember, that a Proposal including **Data from 3 or more projects** is a synthesis project, and needs a respective proposal. Further information about synthesis proposal writing can be found in the current [Rules of Procedure](https://www.bexis.uni-jena.de/FMT/GeneralFiles/DownloadFile?path=FMT%5C%5CBeoInformation%5C%5CGeneralInformation%5C%5CBE-Gesch%C3%A4ftsordnung%20%28Rules%20of%20procedure%29_2021-02-19.pdf&mimeType=.pdf) (requires you to be logged in to BExIS). 
 
 # How to contribute
 We welcome any contribution! If you want to contribute code (e.g. useful functions), want to report an error or make a suggestion, please do not hesitate to contact us by email, make a pull request via Github or open a Github issue in the repository of interest.
