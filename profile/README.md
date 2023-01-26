@@ -17,7 +17,7 @@ Our courses last year :
 
 # Overview of content
 ### Manuals
-- The [**Synthesis dataset manual**](https://github.com/biodiversity-exploratories-synthesis/Synthesis_dataset_manual/blob/main/Synthesis%20datasets%20%20How%20to%20use.md) helps you to work with the Synthesis datasets. It  provides information and tips on how to handle the datasets and outlines common issues when analysing these datasets.
+- The [**Synthesis dataset manual**](https://github.com/biodiversity-exploratories-synthesis/Synthesis_dataset_manual/blob/main/Synthesis%20datasets%20%20How%20to%20use.md) helps you to work with the [**Synthesis datasets**](https://github.com/biodiversity-exploratories-synthesis/Synthesis_dataset_manual/blob/main/Synthesis_datasets_overview.md). It  provides information and tips on how to handle the datasets and outlines common issues when analysing these datasets.
 
 ### Code
 - All code to create synthesis datasets is in their respective folders: [grassland diversity](https://github.com/biodiversity-exploratories-synthesis/Synthesis_dataset_diversity_grassland), [grassland functions](https://github.com/biodiversity-exploratories-synthesis/Synthesis_dataset_functions_grassland), [forest diversity](https://github.com/biodiversity-exploratories-synthesis/Synthesis_dataset_diversity_forest)
