@@ -26,13 +26,10 @@ Our courses last year :
 ### Teaching material
 Teaching material is in the [**courses workshops**](https://github.com/biodiversity-exploratories-synthesis/Synthesis_courses_workshops) folder.
 
-:boom: **New** :boom: here are the short tutorials about selected topics, similar to a FAQ section. Currently published and partly still in development:
-- [Pvalue correction for multiple testing](https://github.com/biodiversity-exploratories-synthesis/Synthesis_courses_workshops/blob/main/Tutorials/Pvalue_correction_multiple_testing.Rmd)
-- [GDM Generalised Dissimilarity Modelling](https://github.com/biodiversity-exploratories-synthesis/Synthesis_courses_workshops/blob/main/Tutorials/Generalised_Dissimilarity_Modelling_GDM.Rmd)
-- [Ecological Metadata Language](https://github.com/biodiversity-exploratories-synthesis/Synthesis_courses_workshops/blob/main/Tutorials/ecological_metadata_language.Rmd)
-- Keep an eye as well on [The R Buddy Club](https://github.com/allanecology/R-buddies-course): Where we and our Institute's colleagues from the Plant Ecology (Prof. Markus Fischer) and Community Ecology (Prof. Eric Allan) Groups write tutorials about R-related topics for our Institute's R club.
+:boom: **New** :boom: here are some short [**tutorials**](https://github.com/biodiversity-exploratories-synthesis/Synthesis_tutorials) about selected topics, similar to a FAQ section. Currently published and partly still in development. Don't hesitate to request a tutorial from us, or contact us directly with your R and statistics questions!
 
-Don't hesitate to request a tutorial from us, or contact us directly with your R and statistics questions!
+:index: Keep an eye as well on [The R Buddy Club](https://github.com/allanecology/R-buddies-course): Where we and our Institute's colleagues from the Plant Ecology (Prof. Markus Fischer) and Community Ecology (Prof. Eric Allan) Groups write tutorials about R-related topics for our Institute's R club.
+
 
 ### Links
 - current [list of synthesis proposals](https://www.bexis.uni-jena.de/FMT/GeneralFiles/Show?viewTitle=General%20Documents&viewName=GeneralFiles&rootMenu=BeoInformation) (you need to be logged in to BExIS). Please remember, that a Proposal including **Data from 3 or more projects** is a synthesis project, and needs a respective proposal. Further information about synthesis proposal writing can be found in the current [Rules of Procedure](https://www.bexis.uni-jena.de/FMT/GeneralFiles/DownloadFile?path=FMT%5C%5CBeoInformation%5C%5CGeneralInformation%5C%5CBE-Gesch%C3%A4ftsordnung%20%28Rules%20of%20procedure%29_2021-02-19.pdf&mimeType=.pdf) (requires you to be logged in to BExIS). 
