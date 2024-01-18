@@ -3,18 +3,6 @@ This space is maintained by the [Core Project Biodiversity Synthesis](https://ww
 
 If you are new to GitHub : Welcome! Repositories are like folders, each of them contains a file called "Readme" in which the content of the current folder is described.
 
-# News
-Outlook to our exciting courses/workshops next year.
-
-We are currently looking forward to 
-- Introduction to Statistics with R course, which will take place in Autumn 2023, once our new Members had the chance to settle down.
-- Statistical help-desk for (synthesis) research : Where we invite you and all your questions to join us on a short block-course with talks about current statistical issues and one-to-one meetings where you can ask all your project-related questions.
-
-Our courses last year :
-- 02.05 - 04-05: **Trait and phylogenetic analyses of community data** with Carlos Carmona and Lars Götzenberger
-- 12.09. - 16.09.2022 : **Meta-Analysis with [Julia Koricheva](https://pure.royalholloway.ac.uk/portal/en/persons/julia-koricheva(ab83b389-7258-48fd-8560-0c8de7b6c94a).html)**
-
-
 # Overview of content
 ### Manuals
 - The [**Synthesis dataset manual**](https://github.com/biodiversity-exploratories-synthesis/Synthesis_dataset_manual/blob/main/Synthesis%20datasets%20%20How%20to%20use.md) helps you to work with the [**Synthesis datasets**](https://github.com/biodiversity-exploratories-synthesis/Synthesis_dataset_manual/blob/main/Synthesis_datasets_overview.md). It  provides information and tips on how to handle the datasets and outlines common issues when analysing these datasets.
@@ -26,9 +14,9 @@ Our courses last year :
 ### Teaching material
 Teaching material is in the [**courses workshops**](https://github.com/biodiversity-exploratories-synthesis/Synthesis_courses_workshops) folder.
 
-:boom: **New** :boom: here are some short [**tutorials**](https://github.com/biodiversity-exploratories-synthesis/Synthesis_tutorials) about selected topics, similar to a FAQ section. Currently published and partly still in development. Don't hesitate to request a tutorial from us, or contact us directly with your R and statistics questions!
+Here are some short [**tutorials**](https://github.com/biodiversity-exploratories-synthesis/Synthesis_tutorials) about selected topics, similar to a FAQ section. Currently published and partly still in development. Don't hesitate to request a tutorial from us, or contact us directly with your R and statistics questions!
 
-:index: Keep an eye as well on [The R Buddy Club](https://github.com/allanecology/R-buddies-course): Where we and our Institute's colleagues from the Plant Ecology (Prof. Markus Fischer) and Community Ecology (Prof. Eric Allan) Groups write tutorials about R-related topics for our Institute's R club.
+Keep an eye as well on [The R Buddy Club](https://github.com/allanecology/R-buddies-course): Where we and our Institute's colleagues from the Plant Ecology (Prof. Markus Fischer) and Community Ecology (Prof. Eric Allan) Groups write tutorials about R-related topics for our Institute's R club.
 
 
 ### Links
